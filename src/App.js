@@ -18,7 +18,7 @@ function App() {
           <Route path="/batepapo" element={<BatePapoTela />} />
           <Route path="/usuario" element={<TelaCadastroUsuario />} />
           
-          <Route path="/" element={<Home />} />
+          <Route path="/PROVABCCLP2" element={<Home />} />
           {
           }
         </Routes>
