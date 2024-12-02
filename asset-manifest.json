@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PROVABCCLP2/static/css/main.d221dc40.css",
+    "main.js": "/PROVABCCLP2/static/js/main.2863388e.js",
+    "index.html": "/PROVABCCLP2/index.html",
+    "main.d221dc40.css.map": "/PROVABCCLP2/static/css/main.d221dc40.css.map",
+    "main.2863388e.js.map": "/PROVABCCLP2/static/js/main.2863388e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.2863388e.js"
+  ]
+}
